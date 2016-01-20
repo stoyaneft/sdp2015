@@ -48,6 +48,6 @@ a)
 Напишете функция `bool containsCycle(graph<int>& g)`, която намира дали графът g съдържа цикъл.
 
 <p align="center">
-  <img src="http://www.quotes-status.com/wp-content/uploads/2015/08/short-funny-exam-status-for-whatsapp-in-hindi-and-english.jpg"/>
+  <img src="http://4.bp.blogspot.com/-U9SKQ98UoR0/UiiB0wHwJyI/AAAAAAAAAdU/RNmyBYIDwcs/s320/2.jpg"/>
 </p>
 <img align="center" src="")>
