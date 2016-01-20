@@ -41,7 +41,6 @@ a)
 <p align="center">
   <img src="http://lifequotes99.com/wp-content/uploads/2013/06/student-during-exams.jpg"/>
 </p>
-<img align="center" src="")>
 
 ## Бонус задача ##
 
@@ -50,4 +49,3 @@ a)
 <p align="center">
   <img src="http://4.bp.blogspot.com/-U9SKQ98UoR0/UiiB0wHwJyI/AAAAAAAAAdU/RNmyBYIDwcs/s320/2.jpg"/>
 </p>
-<img align="center" src="")>
